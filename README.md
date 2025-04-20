@@ -1,7 +1,7 @@
 
 # 👨‍💻 Jefferson F. Teodoro👨‍💻
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380"
-            src="https://i0.wp.com/lexicala.com/wp-content/uploads/Custom-Data.png ">
+            src="https://miro.medium.com/v2/resize:fit:1358/1*M-OoKKukylwmphbSv61Gug.png">
 
 **`Engenheiro de software`**
 
