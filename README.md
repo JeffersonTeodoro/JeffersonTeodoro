@@ -1,7 +1,7 @@
 
 # 👨‍💻 Jefferson F. Teodoro👨‍💻
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380"
-            src="https://geniussolutionsct.com/wp-content/uploads/team-illustration.png">
+            src="https://alptech.dev/y/up/4-20200102143729.shutterstock1493615033developerw800developmentsurmesure.png">
 
 **`Engenheiro de software`**
 
