@@ -1,7 +1,7 @@
 
 # 👨‍💻 Jefferson F. Teodoro👨‍💻
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380"
-            src="https://www.marklanceinfotech.com/wp-content/uploads/2023/12/Web-Development.gif">
+            src="https://giaiphap.advantech.com.vn/wp-content/uploads/2022/10/innoworks-audience-min.png">
 
 **`Engenheiro de software`**
 
