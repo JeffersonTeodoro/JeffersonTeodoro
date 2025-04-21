@@ -6,7 +6,8 @@
 **`Engenheiro de software`**
 
 Me chamo Jefferson França Teodoro , 
-tenho 27 anos e sou natural do Rio de janeiro . Atualmente, estou cursando Engenharia de software . Sou apaixonado por tecnologia e compartilho meu conhecimento através do Instagram, com o perfil chamado "[jefferson França Teodoro ](https://www.instagram.com/franca_teodoro/)".
+tenho 27 anos e sou natural do Rio de janeiro . Atualmente, estou cursando Engenharia de software . Sou apaixonado por tecnologia e compartilho meu conhecimento através do Instagram, com o perfil chamado 
+"[jefferson França Teodoro ](https://www.instagram.com/franca_teodoro/)".
 
 <p align="left">
     
