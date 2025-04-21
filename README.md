@@ -1,7 +1,7 @@
 
 # 👨‍💻 Jefferson F. Teodoro👨‍💻
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380"
-            src="https://pagegenie.ai/wp-content/webp-express/webp-images/uploads/2023/10/DALL%C2%B7E-2023-10-06-11.51.28-Vector-image-of-a-web-developer-sitting-at-a-desk-with-two-monitors.-One-monitor-displays-a-website-while-the-other-shows-the-backend-coding-with-sch.png.webp">
+            src="https://img.freepik.com/premium-vector/vector-man-coding-computer_1058698-1376.jpg">
 
 **`Engenheiro de software`**
 
