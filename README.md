@@ -1,7 +1,7 @@
 
 # 👨‍💻 Jefferson F. Teodoro👨‍💻
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380"
-            src="https://img.freepik.com/premium-vector/vector-man-coding-computer_1058698-1376.jpg">
+            src="https://magnet.cl/wp-content/uploads/2023/06/Desarrollo-1.gif">
 
 **`Engenheiro de software`**
 
