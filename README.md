@@ -3,7 +3,7 @@
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380"
             src="https://magnet.cl/wp-content/uploads/2023/06/Desarrollo-1.gif">
 
-**`Engenheiro de software`**
+**`Engenheiro full steck `**
 
 Me chamo Jefferson França Teodoro , 
 tenho 27 anos e sou natural do Rio de janeiro . Atualmente, estou cursando Engenharia de software . Sou apaixonado por tecnologia e compartilho meu conhecimento através do Instagram, com o perfil chamado 
