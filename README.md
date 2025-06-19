@@ -1,26 +1,32 @@
 
-# 👨‍💻 Jefferson F. Teodoro👨‍💻
+# 👋 Olá! Eu sou o Jefferson França Teodoro
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380"
             src="https://magnet.cl/wp-content/uploads/2023/06/Desarrollo-1.gif">
 
 **`Engenheiro full stack `**
 
-Me chamo Jefferson França Teodoro , 
-tenho 27 anos e sou natural do Rio de janeiro . Atualmente, estou cursando Engenharia de software . Sou apaixonado por tecnologia e compartilho meu conhecimento através do Instagram, com o perfil chamado 
-"[jefferson França Teodoro ](https://www.instagram.com/franca_teodoro/)".
+Tenho 27 anos e atualmente estou cursando **Engenharia de Software**. Sou apaixonado por tecnologia, desenvolvimento e aprendizado contínuo. Aqui no GitHub, você vai encontrar alguns dos meus projetos, estudos e experimentos na área de desenvolvimento de software.
 
-<p align="left">
-    
+### ✅ Linguagens que já concluí:
+- Java  
+- JavaScript  
 
-</a>
-    <a href="https://github.com/JeffersonTeodoro">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+### 🚀 Tecnologias que estou estudando: 
+- Clojure  
+- FastAPI  
+- Swift  
+- Dart  
+
+### 🎯 Objetivo
+Aprimorar cada vez mais minhas habilidades em desenvolvimento full-stack e contribuir com projetos que impactem positivamente a vida das pessoas.
+
+### 📲 Vamos nos conectar?
+- Instagram: "[jefferson França Teodoro ](https://www.instagram.com/franca_teodoro/)".
+- LinkedIn: "[Jefferson França Teodoro](https://www.linkedin.com/in/jefferson-fran%C3%A7a-teodoro-6258ba215/)".
+
+---
+
+_Sinta-se à vontade para explorar meus repositórios!_
 
 ---
 
