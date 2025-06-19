@@ -98,9 +98,25 @@ align="left"
     style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" 
 />
+<img
+align="left" 
+    alt="React" 
+    title="React"
+    width="30px" 
+    style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" 
+/>
+<img 
+align="left" 
+    alt="REST API" 
+    title="REST API"
+    width="30px" 
+    style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-plain.svg" 
+/>
           
-                  
           
+                 
 <br/>
 <br/>
 
