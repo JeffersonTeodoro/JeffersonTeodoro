@@ -18,7 +18,7 @@ Tenho 27 anos e atualmente estou cursando **Engenharia de Software**. Sou apaixo
 - Dart  
 
 ### 🎯 Objetivo
-Aprimorar cada vez mais minhas habilidades em desenvolvimento full-stack e contribuir com projetos que impactem positivamente a vida das pessoas.
+Aprimorar cada vez mais minhas habilidades em Developer full-stack e contribuir com projetos que impactem positivamente a vida das pessoas.
 
 ### 📲 Vamos nos conectar?
 - Instagram: "[jefferson França Teodoro ](https://www.instagram.com/franca_teodoro/)".
