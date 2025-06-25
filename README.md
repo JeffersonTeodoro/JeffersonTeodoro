@@ -4,11 +4,9 @@
 
 ### 👨‍💻 Desenvolvedor Full Stack
 
- Tenho 27 anos e atualmente estou cursando **Engenharia de Software**. Sou apaixonado por tecnologia, desenvolvimento e aprendizado contínuo. Aqui no GitHub, você vai encontrar alguns dos meus projetos, estudos e experimentos na área de desenvolvimento de software.
+Tenho 27 anos e atualmente estou cursando **Engenharia de Software**. Sou apaixonado por tecnologia, desenvolvimento e aprendizado contínuo. Aqui no GitHub, você vai encontrar alguns dos meus projetos, estudos e experimentos na área de desenvolvimento de software.
 
----
-
-## 🚀 Tecnologias e Ferramentas
+### 🚀 Tecnologias e Ferramentas
 
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
@@ -23,31 +21,23 @@
 
 <br/><br/>
 
----
-
-## ✅ Conhecimentos já adquiridos
+### ✅ Conhecimentos já adquiridos
 - JavaScript
 
-## 📚 Atualmente estudando
-- Java
-- Clojure
-- FastAPI
-- Swift
-- Dart
+### 📚 Atualmente estudando
+- Java  
+- Clojure  
+- FastAPI  
+- Swift  
+- Dart  
 
----
-
-## 🎯 Objetivo
+### 🎯 Objetivo
 
 Aprimorar cada vez mais minhas habilidades como **Desenvolvedor Full Stack** e contribuir com projetos que gerem impacto positivo na vida das pessoas.
 
----
+### 📲 Vamos nos conectar?
 
-## 📲 Vamos nos conectar?
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/jefferson-fran%C3%A7a-teodoro-6258ba215/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jefferson-fran%C3%A7a-teodoro-6258ba215/)  
 - 📸 [Instagram](https://www.instagram.com/franca_teodoro/)
-
----
 
 _Sinta-se à vontade para explorar meus repositórios!_
