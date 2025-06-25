@@ -7,11 +7,11 @@
 
 Tenho 27 anos e atualmente estou cursando **Engenharia de Software**. Sou apaixonado por tecnologia, desenvolvimento e aprendizado contínuo. Aqui no GitHub, você vai encontrar alguns dos meus projetos, estudos e experimentos na área de desenvolvimento de software.
 
-### ✅ Linguagens que já concluí:
-- Java  
+### ✅ Linguagens que já concluí:  
 - JavaScript  
 
 ### 🚀 Tecnologias que estou estudando: 
+- Java
 - Clojure  
 - FastAPI  
 - Swift  
