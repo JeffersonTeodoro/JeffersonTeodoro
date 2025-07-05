@@ -1,5 +1,5 @@
 # 👋 Olá! Me chamo Jefferson França Teodoro 👋
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="210" src="https://magnet.cl/wp-content/uploads/2023/06/Desarrollo-1.gif">
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="200" src="https://magnet.cl/wp-content/uploads/2023/06/Desarrollo-1.gif">
 
 - 👨‍💻 *Desenvolvedor Full Stack*
 Tenho 27 anos e atualmente estou em formação como **Desenvolvedor Full Stack**. Sou entusiasta de tecnologia e movido pelo aprendizado constante. Aqui no GitHub você encontrará meus projetos, estudos e experimentos na área de desenvolvimento de software, sempre com foco em qualidade, boas práticas e inovação.
@@ -24,7 +24,8 @@ Tenho 27 anos e atualmente estou em formação como **Desenvolvedor Full Stack**
 Desenvolver soluções completas como Desenvolvedor Full Stack, integrando diferentes tecnologias e contribuindo com projetos que impactem positivamente pessoas e organizações.
 
 # 📲 Vamos nos Conectar?
-- 💼 LinkedIn
-- 📸 Instagram
+- 💼 [LinkedIn](https://www.linkedin.com/in/jefferson-fran%C3%A7a-teodoro-6258ba215/)  
+- 📸 [Instagram](https://www.instagram.com/franca_teodoro/)
+
 
 Sinta-se à vontade para explorar meus repositórios e conhecer melhor meu trabalho.
