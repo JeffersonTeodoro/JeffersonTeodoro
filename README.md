@@ -2,7 +2,7 @@
 
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="300" src="https://magnet.cl/wp-content/uploads/2023/06/Desarrollo-1.gif">
 
-### 👨‍💻 Desenvolvedor Full Stack
+### 👨‍💻 Developer Full Stack Web
 
 Tenho 27 anos e atualmente estou cursando **Desenvolvedor Full Stack**. Sou apaixonado por tecnologia, desenvolvimento e aprendizado contínuo. Aqui no GitHub, você vai encontrar alguns dos meus projetos, estudos e experimentos na área de desenvolvimento de software.
 
