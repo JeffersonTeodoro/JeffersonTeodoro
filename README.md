@@ -4,7 +4,7 @@
 
 ### 👨‍💻 Desenvolvedor Full Stack
 
-Tenho 27 anos e atualmente estou cursando **Engenharia de Software**. Sou apaixonado por tecnologia, desenvolvimento e aprendizado contínuo. Aqui no GitHub, você vai encontrar alguns dos meus projetos, estudos e experimentos na área de desenvolvimento de software.
+Tenho 27 anos e atualmente estou cursando **Desenvolvedor Full Stack**. Sou apaixonado por tecnologia, desenvolvimento e aprendizado contínuo. Aqui no GitHub, você vai encontrar alguns dos meus projetos, estudos e experimentos na área de desenvolvimento de software.
 
 ### 🚀 Tecnologias e Ferramentas
 
