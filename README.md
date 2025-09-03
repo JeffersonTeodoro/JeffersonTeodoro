@@ -25,7 +25,7 @@ Desenvolver soluções completas como Desenvolvedor Full Stack, integrando difer
 
 ### 📲 *Vamos nos Conectar?*
 - 💼 [LinkedIn](https://www.linkedin.com/in/jefferson-fran%C3%A7a-teodoro-6258ba215/)  
-- 📸 [Instagram](https://www.instagram.com/franca_teodoro/)
+- 📸 [Instagram](https://www.instagram.com/franca_teodoro/).
 
 
 Sinta-se à vontade para explorar meus repositórios e conhecer melhor meu trabalho.
