@@ -15,6 +15,7 @@
 
 ### 📚 *Atualmente Estudando*
 - Java
+- Engenharia de Software
 - Clojure
 - FastAPI
 - Swift
