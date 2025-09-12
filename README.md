@@ -21,11 +21,11 @@ Here on GitHub, you will find my projects, studies, and experiments in software 
 ### ✅ *Core Knowledge*
 - JavaScript  
 - HTML & CSS  
-- Version Control with Git & GitHub  
+- Version Control with Git & GitHub
+- Software Engineering  
 
 ### 📚 *Currently Learning*
 - Java  
-- Software Engineering  
 - Clojure  
 - FastAPI  
 - Swift  
