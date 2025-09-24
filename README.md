@@ -1,8 +1,8 @@
 # 👋 Hello! My name is Jefferson França Teodoro 👋
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="250" width="300" src="https://magnet.cl/wp-content/uploads/2023/06/Desarrollo-1.gif">
 
-### 👨‍💻 *Full Stack Development*
-I am 27 years old and currently training as a **Full Stack Developer**. I’m a technology enthusiast driven by continuous learning.  
+### 👨‍💻 *Full Stack Web Developer*
+I am 27 years old and currently training as a **Full Stack Web Developer**. I’m a technology enthusiast driven by continuous learning.  
 Here on GitHub, you will find my projects, studies, and experiments in software development — always focused on quality, best practices, and innovation.
 
 ### 🚀 *Technologies & Tools*
