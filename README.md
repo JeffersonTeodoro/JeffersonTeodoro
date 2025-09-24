@@ -20,6 +20,7 @@ Here on GitHub, you will find my projects, studies, and experiments in software 
 
 <br/><br/>
 
+
 ### ✅ *Consolidated Knowledge*
 - JavaScript  
 - HTML & CSS  
