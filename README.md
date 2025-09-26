@@ -35,7 +35,7 @@ Here on GitHub, you will find my projects, studies, and experiments in software 
 - Dart  
 
 ### 🎯 *Career Objective*
-To develop complete solutions as a **Full Stack Developer**, integrating different technologies and contributing to projects that positively impact people and organizations.
+To develop complete solutions as a **Full Stack Web Developer**, integrating different technologies and contributing to projects that positively impact people and organizations.
 
 ### 📲 *Let’s Connect!*
 - 💼 [LinkedIn](https://www.linkedin.com/in/jefferson-fran%C3%A7a-teodoro-6258ba215/)  
