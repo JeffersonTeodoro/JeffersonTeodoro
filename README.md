@@ -29,10 +29,10 @@ Here on GitHub, you will find my projects, studies, and experiments in software 
 - JavaScript  
 - HTML & CSS  
 - Version Control with Git & GitHub
-- Software Engineering  
+- Software Engineering
+- Java
 
 ### 📚 *Currently Learning*
-- Java  
 - Clojure  
 - FastAPI  
 - Swift  
