@@ -1,48 +1,81 @@
+# Jefferson França Teodoro  
+### Full Stack Web Developer | Java • JavaScript • React • APIs REST
 
-# 👋 Hello! My name is Jefferson França Teodoro 👋
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="250" width="300" src="https://magnet.cl/wp-content/uploads/2023/06/Desarrollo-1.gif">
+## 👋 Professional Summary
+Full Stack Web Developer focused on building **scalable, well-structured, and maintainable applications**.  
+Experience with **frontend and backend development**, RESTful APIs, databases, and version control.  
+Strong commitment to **clean code, best practices, and continuous learning**.
 
-### 👨‍💻 *Full Stack Web Developer*
-I am 27 years old and currently training as a **Full Stack Web Developer**. I’m a technology enthusiast driven by continuous learning.  
-Here on GitHub, you will find my projects, studies, and experiments in software development — always focused on quality, best practices, and innovation.
+---
 
-### 🚀 *Technologies & Tools*
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> 
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> 
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> 
-<img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/> 
-<img align="left" alt="React" title="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> 
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> 
-<img align="left" alt="Java" title="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/> 
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> 
-<img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/> 
-<img align="left" alt="REST API" title="REST API" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-plain.svg"/>
-<img align="left" alt="AWS" title="AWS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
-<img align="left" alt="pgAdmin" title="pgAdmin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-<img align="left" alt="Heroku" title="Heroku" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg"/>
+## 🚀 Tech Stack
 
-<br/><br/>
+### 🎨 Frontend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35"/>
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-plain.svg" width="35"/>
+</p>
+
+### ☁️ DevOps & Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" width="35"/>
+</p>
+
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160"
+       src="https://github-readme-stats.vercel.app/api?username=JeffersonTeodoro&show_icons=true&theme=tokyonight" />
+  <img height="160"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffersonTeodoro&layout=compact&theme=tokyonight" />
+</p>
 
 
 
-### ✅ *Consolidated Knowledge*
-- JavaScript  
-- HTML & CSS  
-- Version Control with Git & GitHub
-- Software Engineering
-- Java
+---
 
-### 📚 *Currently Learning*
-- Clojure  
+## 💼 Professional Focus
+- Development of **web applications** using modern technologies  
+- Backend development with **Java and RESTful APIs**  
+- Frontend interfaces with **React**  
+- Database modeling and integration  
+- Version control and collaborative development  
+
+---
+
+## 📚 Continuous Learning
 - FastAPI  
+- Clojure  
 - Swift  
 - Dart  
 
-### 🎯 *Career Objective*
-To develop complete solutions as a **Full Stack Web Developer**, integrating different technologies and contributing to projects that positively impact people and organizations.
+---
 
-### 📲 *Let’s Connect!*
-- 💼 [LinkedIn](https://www.linkedin.com/in/jefferson-fran%C3%A7a-teodoro-6258ba215/)  
-- 📸 [Instagram](https://www.instagram.com/franca_teodoro/)  
+## 🎯 Career Objective
+To work as a **Full Stack Developer** (or Java Backend Developer), contributing to professional teams and real-world projects, while continuously evolving my technical and problem-solving skills.
 
-Feel free to explore my repositories and get to know my work better.
+---
+
+## 📞 Contact
+- 💼 [LinkedIn](https://www.linkedin.com/in/jefferson-fran%C3%A7a-teodoro-6258ba215/)
+- 📸 [Instagram](https://www.instagram.com/franca_teodoro/)
+---
+
+⭐ Open to opportunities, challenges, and professional growth.
