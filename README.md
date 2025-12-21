@@ -1,4 +1,4 @@
-# Jefferson França Teodoro  
+# Jefferson França Teodoro👋
 ### Full Stack Web Developer | Java • JavaScript • React • APIs REST
 
 ## 👋 Professional Summary
