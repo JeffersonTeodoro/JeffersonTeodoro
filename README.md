@@ -35,20 +35,6 @@ Strong commitment to **clean code, best practices, and continuous learning**.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" width="35"/>
 </p>
 
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160"
-       src="https://github-readme-stats.vercel.app/api?username=JeffersonTeodoro&show_icons=true&theme=tokyonight" />
-  <img height="160"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffersonTeodoro&layout=compact&theme=tokyonight" />
-</p>
-
-
-
 ---
 
 ## 💼 Professional Focus
