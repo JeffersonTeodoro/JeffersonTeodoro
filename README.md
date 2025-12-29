@@ -36,6 +36,22 @@ Strong commitment to **clean code, best practices, and continuous learning**.
 </p>
 
 ---
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JeffersonTeodoro&theme=tokyonight" width="700"/>
+
+  <br/><br/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JeffersonTeodoro&theme=tokyonight" width="340"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JeffersonTeodoro&theme=tokyonight" width="340"/>
+</div>
+
+
+
+![Metrics](https://metrics.lecoq.io/JeffersonTeodoro?template=classic&languages=1&theme=dark)
+
+---
 
 ## 💼 Professional Focus
 - Development of **web applications** using modern technologies  
