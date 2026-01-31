@@ -16,7 +16,7 @@ Full Stack Web Developer focused on building **scalable, well-structured, and ma
 Experience with **frontend and backend development**, RESTful APIs, databases, and version control.  
 Strong commitment to **clean code, best practices, and continuous learning**.
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## 🚀 Tech Stack
 
