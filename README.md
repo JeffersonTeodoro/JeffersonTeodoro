@@ -1,7 +1,17 @@
-# Jefferson França Teodoro👋
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img 
+      src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineering%20Student;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=520&height=50&color=1E90FF&vCenter=true&pause=1000&size=24" 
+      alt="Typing SVG"
+    />
+  </a>
+</p>
+
+
+# Jefferson França Teodoro<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 ### Full Stack Web Developer | Java • JavaScript • React • APIs REST
 
-## 👋 Professional Summary
+## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Professional Summary
 Full Stack Web Developer focused on building **scalable, well-structured, and maintainable applications**.  
 Experience with **frontend and backend development**, RESTful APIs, databases, and version control.  
 Strong commitment to **clean code, best practices, and continuous learning**.
@@ -35,7 +45,8 @@ Strong commitment to **clean code, best practices, and continuous learning**.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" width="35"/>
 </p>
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -45,10 +56,7 @@ Strong commitment to **clean code, best practices, and continuous learning**.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JeffersonTeodoro&theme=tokyonight" width="340"/>
 </div>
 
-
-![Metrics](https://metrics.lecoq.io/JeffersonTeodoro?template=classic&languages=1&theme=dark)
-
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## 💼 Professional Focus
 - Development of **web applications** using modern technologies  
