@@ -81,8 +81,17 @@ To work as a **Full Stack Developer** (or Java Backend Developer), contributing 
 ---
 
 ## 📞 Contact
-- 💼 [LinkedIn](https://www.linkedin.com/in/jefferson-fran%C3%A7a-teodoro-6258ba215/)
-- 📸 [Instagram](https://www.instagram.com/franca_teodoro/)
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/jefferson-fran%C3%A7a-teodoro-6258ba215/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.instagram.com/franca_teodoro/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
 ---
 
 ⭐ Open to opportunities, challenges, and professional growth.
